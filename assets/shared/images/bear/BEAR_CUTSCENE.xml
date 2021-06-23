@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BEAR_CUTSCENE.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ANIM0000" x="0" y="0" width="4160" height="2165"/>
+	<SubTexture name="ANIM0001" x="0" y="2165" width="4160" height="2165"/>
+	<SubTexture name="ANIM0002" x="0" y="4330" width="4160" height="2165"/>
+</TextureAtlas>
